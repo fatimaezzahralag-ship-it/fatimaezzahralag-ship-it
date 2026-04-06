@@ -5,7 +5,6 @@
 Computer science student passionate about artificial intelligence and its real-world impact.
 I am particularly interested in machine learning, full-stack development, and intelligent systems.
 
-
 📍 Morocco  
 🎓 Computer Science Student  
 🤖 Interested in AI, ML, smart systems and backend development

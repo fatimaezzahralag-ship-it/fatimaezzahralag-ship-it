@@ -2,8 +2,9 @@
 
 ## Informatique • Data • IA
 
-Etudiante en informatique passionnee par l'intelligence artificielle et ses applications a impact reel.  
-Je m'interesse particulierement au machine learning, au developpement full-stack et aux systemes intelligents.
+Computer science student passionate about artificial intelligence and its real-world impact.
+I am particularly interested in machine learning, full-stack development, and intelligent systems.
+
 
 📍 Morocco  
 🎓 Computer Science Student  

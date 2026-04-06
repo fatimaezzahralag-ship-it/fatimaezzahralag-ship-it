@@ -1,6 +1,6 @@
 # Hi, I'm LAGDEM FATIMAEZZAHRA
 
-## Informatique • Data • IA
+## Computer Science • Data • IA
 
 Computer science student passionate about artificial intelligence and its real-world impact.
 I am particularly interested in machine learning, full-stack development, and intelligent systems.
